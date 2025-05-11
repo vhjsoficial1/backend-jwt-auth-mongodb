@@ -53,7 +53,7 @@ Todas as rotas de transações financeiras requerem autenticação JWT.
 
 ## Vídeo Explicativo (Original - Atividade IV)
 
-[Vídeo de Execução no Postman](https://youtu.be/G2WIVeRk-Gg)
+[Vídeo de Execução no Postman](https://youtu.be/QwQuoboPGG8)
 
 ## Como Executar
 
