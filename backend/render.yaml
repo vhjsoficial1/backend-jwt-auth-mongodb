@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: jwt-auth-mongodb
+    runtime: node
+    buildCommand: cd backend && npm install
+    startCommand: cd backend && node server.js
+    envVars:
+      - key: MONGODB_URI
+        value: mongodb+srv://vitors:bxGSlz9xQanMLkyD@atividade-fullstack.hgjackv.mongodb.net/?retryWrites=true&w=majority&appName=atividade-fullstack
+      - key: JWT_SECRET
+        value: jwt_secret_key
