@@ -1,6 +1,6 @@
 # JWT Authentication MongoDB - Atividade IV v2
 
-Este é um projeto backend construído com Node.js, Express e MongoDB, fornecendo autenticação básica via token JWT e rotas protegidas. Esta versão inclui funcionalidades de CRUD para Transações Financeiras, Lista de Tarefas e Lista de Compras.
+Este é um projeto backend construído com Node.js, Express e MongoDB, fornecendo autenticação básica via token JWT e rotas protegidas. Esta versão inclui funcionalidades de CRUD para Registro de Transações Financeiras.
 
 # Tecnologias Utilizadas
 
